@@ -1,0 +1,12 @@
+
+.filter-button{
+    position: absolute;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    height: 42px;
+    --background: #fff;
+    color: #212121;
+    z-index: 999999999999999999;
+    --box-shadow: none;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adrash-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
